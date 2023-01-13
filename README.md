@@ -12,8 +12,9 @@ GitHub repo: https://github.com/Amy-now/CookinTime.git
 Introduction
 Cookin time has been developed with the aim of aiding students and young people in improving their diet and cooking skills.
 This app was built with React and adheres to the standards of modern apps using professional tools and techniques. Due to a lack of knowledge and time constraints certain features have not been implemented to the degree that I would want for example the favourites button. Testing with a small group of representative users has yielded positive results. The application includes a collection of easy and quick recipes, a search function, step by step instructions for preparation and a recipe generator, allowing users to cut down on food waste, as well as make meals with ingredients they already have allowing them to save money as they don’t have to keep going out to buy more food. These features may improve cooking skills and enjoyment for young people, also it is hoped to increase the frequency of cooking as it becomes easier.
+
+
 Methodology
- 
  (Adam, 2021)
 Initially when looking at methodologies I considered using Agile however on further scrutiny  I established that waterfall may be a better fit this was some of my reasoning:
 Agile is useful in getting projects delivered in a short space of time but this is more important than documentation, obviously as part of an assignment the predictability, fixed timeline and well documented predictability of waterfall fits better. The fact that Cookin Time is relying on recipe and implementation times that are already existing also means that waterfall works better than Agile where the project's features are all worked out in an iterative manner.
