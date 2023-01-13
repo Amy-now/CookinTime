@@ -8,6 +8,7 @@ Hosted at: https://cookin-time-b0ba6.web.app/
 
 GitHub repo: https://github.com/Amy-now/CookinTime.git
  
+ 
 Introduction
 Cookin time has been developed with the aim of aiding students and young people in improving their diet and cooking skills.
 This app was built with React and adheres to the standards of modern apps using professional tools and techniques. Due to a lack of knowledge and time constraints certain features have not been implemented to the degree that I would want for example the favourites button. Testing with a small group of representative users has yielded positive results. The application includes a collection of easy and quick recipes, a search function, step by step instructions for preparation and a recipe generator, allowing users to cut down on food waste, as well as make meals with ingredients they already have allowing them to save money as they don’t have to keep going out to buy more food. These features may improve cooking skills and enjoyment for young people, also it is hoped to increase the frequency of cooking as it becomes easier.
